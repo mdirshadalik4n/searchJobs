@@ -7,7 +7,7 @@ const jobsListings = [
   {
     "id": 1,
     "company": "Mitsubishi",
-    "logo": "./images/mitsubishi.svg",
+    "logo": "./mitsubishi.svg",
     "new": true,
     "featured": true,
     "position": "Senior Software Developer",
@@ -21,7 +21,7 @@ const jobsListings = [
   {
     "id": 2,
     "company": "Cisco",
-    "logo": "./images/cisco.svg",
+    "logo": "./cisco.svg",
     "new": true,
     "featured": true,
     "position": "Fullstack Developer",
@@ -36,7 +36,7 @@ const jobsListings = [
   {
     "id": 3,
     "company": "Intel",
-    "logo": "./images/intel.svg",
+    "logo": "./intel.svg",
     "new": true,
     "featured": false,
     "position": "Junior Frontend Developer",
@@ -51,7 +51,7 @@ const jobsListings = [
   {
     "id": 4,
     "company": "Hewlett-Packard",
-    "logo": "./images/HP.svg",
+    "logo": "./HP.svg",
     "new": false,
     "featured": false,
     "position": "Junior Frontend Developer",
@@ -65,7 +65,7 @@ const jobsListings = [
   {
     "id": 5,
     "company": "Microsoft",
-    "logo": "./images/microsoft.svg",
+    "logo": "./microsoft.svg",
     "new": false,
     "featured": false,
     "position": " Associate Software Engineer",
@@ -80,7 +80,7 @@ const jobsListings = [
   {
     "id": 6,
     "company": "BOSCH",
-    "logo": "./images/Bosch.svg",
+    "logo": "./Bosch.svg",
     "new": false,
     "featured": false,
     "position": "Junior Backend Developer",
@@ -94,7 +94,7 @@ const jobsListings = [
   {
     "id": 7,
     "company": "Shortly",
-    "logo": "./images/shortly.svg",
+    "logo": "./shortly.svg",
     "new": false,
     "featured": false,
     "position": "Junior Developer",
@@ -109,7 +109,7 @@ const jobsListings = [
   {
     "id": 8,
     "company": "Insure",
-    "logo": "./images/insure.svg",
+    "logo": "./insure.svg",
     "new": false,
     "featured": false,
     "position": "Junior Frontend Developer",
@@ -124,7 +124,7 @@ const jobsListings = [
   {
     "id": 9,
     "company": "Eyecam Co.",
-    "logo": "./images/eyecam-co.svg",
+    "logo": "./eyecam-co.svg",
     "new": false,
     "featured": false,
     "position": "Full Stack Engineer",
@@ -139,7 +139,7 @@ const jobsListings = [
   {
     "id": 10,
     "company": "The Air Filter Company",
-    "logo": "./images/the-air-filter-company.svg",
+    "logo": "./the-air-filter-company.svg",
     "new": false,
     "featured": false,
     "position": "Front-end Dev",
