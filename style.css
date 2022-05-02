@@ -180,7 +180,7 @@ body {
     position: absolute;
     right: 0;
     top: 0;
-    background-image: url('./images/icon-remove.svg');
+    background-image: url('./icon-remove.svg');
     background-position: center;
     background-size: 15px;
     background-repeat: no-repeat;
